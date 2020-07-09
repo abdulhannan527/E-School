@@ -1,3 +1,5 @@
+
+
 .logo-img{
     position: absolute;
     width: 118.07px;
@@ -9,6 +11,9 @@
 }
 .head-line h2{
     font-weight: 700;
+}
+.orange-highlight{
+    color: #fc5f2b;
 }
 .blue-highlight{
     color:#21B573;
